@@ -1,6 +1,6 @@
 # Azure Sentinel Honeypot Lab 🛡️
 
-**Author:** OsmNarms  
+**Author:** Osm191
 **Date:** May 2026  
 **Platform:** Microsoft Azure  
 **Tools:** Microsoft Sentinel, Log Analytics, Azure Monitor Agent, Nmap, Hydra, KQL  
