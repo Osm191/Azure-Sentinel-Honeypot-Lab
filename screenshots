@@ -1,1 +1,4 @@
+git add .
+git commit -m "Add screenshots"
+git push origin main
 
